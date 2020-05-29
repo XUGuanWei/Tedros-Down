@@ -20,7 +20,7 @@
 
 ![image](https://raw.githubusercontent.com/XUGuanWei/Tedros-Down/master/IMG/SpikedBall.png)
 
-▲VirusBall-會產生一定幅度擺動動的平台，非傷害物件，可站上去
+▲VirusBall-會產生一定幅度擺動的平台，非傷害物件，可站上去
 
 
 ## 本遊戲純屬虛構，如有雷同實屬巧合
